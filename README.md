@@ -1,20 +1,49 @@
-# OnlineShop.uz
+# 🛒 OnlineShop.uz — E-commerce Platform
 
-**OnlineShop.uz** is a modern and user-friendly e-commerce platform designed for seamless online shopping. It provides a complete solution for both customers and store administrators, making the process of buying and selling products efficient and intuitive.
+---
 
-## 🚀 Features
+## 🎯 Project Overview
 
-- 🛒 User-friendly online shopping experience
-- 👤 User registration and login
-- 🔐 Secure authentication system
-- 🧾 Product listings with categories and details
-- 📦 Shopping cart and order management
-- 🧑‍💼 Admin panel for managing products and orders
-- 💳 Payment system integration (Coming Soon)
-- 📱 Responsive design (mobile-friendly)
+OnlineShop.uz is a full-featured e-commerce platform designed to enable users to browse, select, and purchase products online. The platform supports multiple categories, product management, and secure checkout.
 
-## 🛠️ Technologies Used
+---
 
-- **Yii2**(PHP framework)
-- **MySQL** (Database)
-- **HTML/CSS/JavaScript** (Frontend)
+## ⚙️ Tech Stack
+
+- PHP (Custom MVC or Yii2 if applicable)
+- MySQL
+- HTML/CSS/Bootstrap
+- JavaScript (for UI enhancements)
+
+---
+
+## ✅ Features
+
+- User registration and login
+- Product catalog browsing with categories
+- Shopping cart management
+- Order placement and history
+- Admin panel for product and order management
+
+---
+
+## 🚀 Installation & Setup
+
+1. Clone the repository
+2. Import the database dump into MySQL
+3. Configure database settings in `config/db.php`
+4. Set up a virtual host pointing to the project root
+5. Run the application and enjoy shopping!
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome. Please fork the repo and create pull requests.
+
+---
+
+## 🧑‍💻 Author
+
+Azizbek Utkirovich  
+[GitHub Profile](https://github.com/Azizbekutkirovich)
