@@ -10,7 +10,7 @@ OnlineShop.uz is a full-featured e-commerce platform designed to enable users to
 
 ## ⚙️ Tech Stack
 
-- PHP (Custom MVC or Yii2 if applicable)
+- PHP (Yii2)
 - MySQL
 - HTML/CSS/Bootstrap
 - JavaScript (for UI enhancements)
